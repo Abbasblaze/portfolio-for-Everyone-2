@@ -1,0 +1,103 @@
+.Review {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.testimonial-card-left {
+  background: linear-gradient(
+    90deg,
+    rgb(7, 7, 7) 45.91%,
+    rgba(41, 40, 53, 1) 47.32%
+  );
+  border-radius: 15px;
+  padding: 20px;
+  width: 509px;
+  height: 436px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  color: #fff;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.testimonial-card {
+  background: rgba(41, 40, 53, 1);
+  border-radius: 15px;
+  padding: 20px;
+  width: 509px;
+  height: 436px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  color: #fff;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.Elkaim {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  justify-content: center;
+}
+
+.Elkaim img {
+  border-radius: 50%;
+  width: 69px;
+  height: 69px;
+  margin-right: 15px;
+}
+
+.name-title h3 {
+  font-family: Inter;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 20.57px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.name-title p {
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18.15px;
+  text-align: center;
+
+  color: #7d7d7d;
+}
+
+.testimonial-content p {
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.social-links {
+  margin-top: 120px;
+}
+
+.social-links a {
+  text-decoration: none;
+  width: 100px;
+  height: 41px;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.testimonial-card::before {
+  content: "";
+  background: url("https://via.placeholder.com/100") no-repeat;
+  background-size: contain;
+  opacity: 0.1;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 80px;
+  height: 80px;
+}
+
+.LogoCard {
+  margin-left: 350px;
+}
