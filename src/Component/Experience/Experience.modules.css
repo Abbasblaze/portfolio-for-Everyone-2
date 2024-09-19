@@ -1,0 +1,101 @@
+.Experience h1 {
+  font-family: Inter;
+  font-size: 58px;
+  font-weight: 900;
+  line-height: 58.29px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  background-blend-mode: overlay;
+  background: radial-gradient(
+      69.09% 95.18% at 42.78% 42.58%,
+      #621abe 0%,
+      rgba(36, 33, 75, 0) 100%
+    ),
+    linear-gradient(
+      270.51deg,
+      rgba(255, 156, 84, 0.4) 35.86%,
+      rgba(255, 255, 255, 0.216033) 52.65%,
+      rgba(0, 0, 0, 0) 72.38%
+    );
+  -webkit-background-clip: text;
+  color: transparent;
+  margin-top: 180px;
+}
+
+.Experience h2 {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24.2px;
+  text-align: center;
+  color: #fff;
+  margin-top: 80px;
+}
+
+.Experience p {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.3);
+  margin-top: 8px;
+}
+
+.timeline-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  margin: 50px auto;
+  max-width: 1200px;
+  gap: 20px;
+}
+
+.timeline-card {
+  background: rgba(131, 130, 138, 0.2);
+
+  padding: 20px;
+  border-radius: 10px;
+  width: 191px;
+  height: 208px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.timeline-card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease;
+}
+
+.year-range {
+  font-size: 14px;
+  color: rgba(117, 117, 117, 1);
+}
+
+.company-logo img {
+  width: 53px;
+  height: 53px;
+  margin: 10px 0;
+}
+
+.role {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16.94px;
+  text-align: center;
+  color: #fff;
+  margin: 10px 0;
+}
+
+.company {
+  font-size: 16px;
+  color: #00aaff;
+}
+
+.country img {
+  width: 88px;
+  height: 17px;
+}
