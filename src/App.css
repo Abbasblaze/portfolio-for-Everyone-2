@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  max-width: 2040px;
+}
+
+body {
+  background: rgba(18, 17, 32, 1);
+  text-decoration: none;
+}

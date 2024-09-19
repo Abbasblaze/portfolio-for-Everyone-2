@@ -1,0 +1,27 @@
+.profile {
+  background-image: url();
+}
+
+.profile img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.profile h1 {
+  margin: 10px 0 0 0;
+}
+
+.title h2 {
+  font-size: 3em;
+  margin: 5px 0;
+  background: linear-gradient(90deg, #ce75ff, #ff7d6b);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.footer p {
+  font-size: 1em;
+  margin-top: 20px;
+}
