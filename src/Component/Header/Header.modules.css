@@ -1,27 +1,59 @@
-.profile {
-  background-image: url();
-}
+/* .header {
+  background-image: url("Img/Capture d’écran 2023-05-25 à 17.14 1 (1).png");
+  background-repeat: no-repeat;
+  margin-top: 32px;
+} */
 
-.profile img {
+.profile-Img {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  border: 2px solid #fff;
+  margin-left: 900px;
+  background: linear-gradient(to bottom, rgb(17, 17, 17), rgb(78, 78, 78));
+  padding: 15px;
+  margin: 27px auto 0px 900px;
 }
 
 .profile h1 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48.41px;
+  text-align: center;
   margin: 10px 0 0 0;
+  margin: 27px auto;
 }
 
 .title h2 {
-  font-size: 3em;
-  margin: 5px 0;
-  background: linear-gradient(90deg, #ce75ff, #ff7d6b);
+  font-family: Inter;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 96.48px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  background: radial-gradient(
+      69.09% 95.18% at 42.78% 42.58%,
+      #621abe 0%,
+      rgba(36, 33, 75, 0) 100%
+    ),
+    linear-gradient(
+      270.51deg,
+      rgba(255, 156, 84, 0.4) 35.86%,
+      rgba(255, 255, 255, 0.216033) 52.65%,
+      rgba(0, 0, 0, 0) 72.38%
+    );
   -webkit-background-clip: text;
   color: transparent;
+  margin-top: 80px;
 }
 
-.footer p {
-  font-size: 1em;
-  margin-top: 20px;
+.bottom p {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24.2px;
+  text-align: center;
+  color: rgba(245, 245, 245, 1);
+  margin-top: 100px;
 }
