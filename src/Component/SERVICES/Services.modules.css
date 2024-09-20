@@ -1,0 +1,151 @@
+.Servicesheader h1 {
+  font-family: Inter;
+  font-size: 58px;
+  font-weight: 900;
+  line-height: 58.29px;
+  letter-spacing: 0.02em;
+  text-align: center;
+
+  color: rgba(255, 255, 255, 1);
+  background-blend-mode: overlay;
+  background: radial-gradient(
+      69.09% 95.18% at 42.78% 42.58%,
+      #621abe 0%,
+      rgba(36, 33, 75, 0) 100%
+    ),
+    linear-gradient(
+      270.51deg,
+      rgba(255, 156, 84, 0.4) 35.86%,
+      rgba(255, 255, 255, 0.216033) 52.65%,
+      rgba(0, 0, 0, 0) 72.38%
+    );
+  -webkit-background-clip: text;
+  color: transparent;
+  margin-top: 180px;
+}
+
+.tags {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.tag {
+  background: linear-gradient(
+    160.33deg,
+    rgba(217, 217, 217, 0.04) 13.17%,
+    rgba(255, 255, 255, 0.01) 97.91%
+  );
+  color: #fff;
+  width: Hug (149px) px;
+  height: Hug (40px) px;
+  top: 4103px;
+  left: 386px;
+  padding: 12px 18px 12px 16px;
+  gap: 10px;
+  border-radius: 30px;
+  border: 1px;
+
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 50px;
+}
+
+.tag:hover {
+  background-color: #1a1a3e;
+}
+
+.introPara {
+  width: 546px;
+  height: 24px;
+  top: 4207px;
+  left: 447px;
+  gap: 0px;
+  opacity: 0px;
+  color: #fff;
+  margin-left: 780px;
+  margin-top: 64px;
+}
+
+.introParaLight {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.3);
+  margin-top: 8px;
+}
+
+.services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  margin-top: 81px;
+}
+
+.service-card {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background-color: #2a2a3d;
+  border-radius: 10px;
+  padding: 20px;
+  width: 460px;
+  height: 119px;
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease-in-out;
+}
+
+.service-card:hover {
+  transform: scale(1.05);
+}
+
+.servicesLogo {
+  width: 50px;
+  height: 50px;
+}
+
+.service-card h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.service-card p {
+  margin: 5px 0 0;
+  font-size: 14px;
+  color: #bbbbbb;
+}
+
+.footer {
+  background: rgba(255, 255, 255, 0.1);
+  width: 460px;
+  height: 64px;
+  border-radius: 6.75px;
+  color: white;
+  margin-left: 720px;
+  margin-top: 88px;
+}
+
+.footer .icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer .icons img {
+  width: 32px;
+  height: 32px;
+  padding: 0px 1px 2px 1px;
+  margin-top: 20px;
+  transition: transform 0.3s;
+}
+
+.footer .icons img:hover {
+  transform: scale(1.1);
+}
