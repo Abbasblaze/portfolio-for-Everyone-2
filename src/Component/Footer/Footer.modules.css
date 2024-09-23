@@ -7,7 +7,12 @@
 }
 
 .footer {
-  background-color: #292929;
+  background: linear-gradient(
+    160.33deg,
+    rgba(61, 238, 132, 0.04) 13.17%,
+    rgba(58, 255, 137, 0.01) 97.91%
+  );
+
   width: 267px;
   height: 38px;
   border-radius: 9px;

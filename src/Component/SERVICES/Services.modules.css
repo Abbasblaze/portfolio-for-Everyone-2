@@ -87,7 +87,8 @@
   display: flex;
   align-items: center;
   gap: 15px;
-  background-color: #2a2a3d;
+  background: rgba(131, 130, 138, 0.2);
+
   border-radius: 10px;
   padding: 20px;
   width: 460px;
