@@ -6,10 +6,10 @@ function Naviagtion() {
         <div className="container"> 
           <div className="navbar">
         <div className="navbar-Right">
-      <img src="Img/Union.png" alt="" className='NavLogo'/>
-      <img src="Img/Component 100.png" alt="" className='socials' />
-      <img src="Img/Component 101.png" alt="" className='socials'/>
-      <img src="Img/Component 99.png" alt="" className='socials'/>
+      <img src="src/assets/Union.png" alt="" className='NavLogo'/>
+      <img src="src/assets/Component 99.png" alt="" className='socials' />
+      <img src="src/assets/Component 100.png" alt="" className='socials'/>
+      <img src="src/assets/Component 101.png" alt="" className='socials'/>
        </div>
 
         <div className="navbar-left">
