@@ -85,19 +85,6 @@
   border-radius: 4px;
   font-size: 12px;
 }
-
-.testimonial-card::before {
-  content: "";
-  background: url("https://via.placeholder.com/100") no-repeat;
-  background-size: contain;
-  opacity: 0.1;
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  width: 80px;
-  height: 80px;
-}
-
 .LogoCard {
   margin-left: 350px;
 }
