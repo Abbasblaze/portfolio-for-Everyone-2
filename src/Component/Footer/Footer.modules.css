@@ -1,0 +1,37 @@
+.footerContainer {
+  margin-top: 113px;
+}
+
+.footerLogo img {
+  margin-left: 850px;
+}
+
+.footer {
+  background-color: #292929;
+  width: 267px;
+  height: 38px;
+  border-radius: 9px;
+  border: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15.24px;
+  text-align: left;
+}
+
+.footer .icon {
+  color: #ff4081;
+}
+
+.footer-text {
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15.24px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.3);
+  margin-left: 890px;
+}

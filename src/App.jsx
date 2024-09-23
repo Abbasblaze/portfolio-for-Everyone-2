@@ -1,6 +1,8 @@
 
 import './App.css'
+import Contact from './Component/Contact/Contact'
 import Experience from './Component/Experience/Experience'
+import Footer from './Component/Footer/Footer'
 import Header from './Component/Header/Header'
 import Naviagtion from './Component/Navigatiion/Navigation'
 import Products from './Component/Products/Products'
@@ -20,6 +22,8 @@ function App() {
       <Experience/>
       <Review/>
       <Services/>
+      <Contact/>
+      <Footer/>
     </>
   )
 }

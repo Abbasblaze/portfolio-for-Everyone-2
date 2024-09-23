@@ -32,11 +32,7 @@
 }
 
 .tag {
-  background: linear-gradient(
-    160.33deg,
-    rgba(217, 217, 217, 0.04) 13.17%,
-    rgba(255, 255, 255, 0.01) 97.91%
-  );
+  background: rgba(255, 255, 255, 0.1);
   color: #fff;
   width: Hug (149px) px;
   height: Hug (40px) px;
