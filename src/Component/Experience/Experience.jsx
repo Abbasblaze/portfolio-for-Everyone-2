@@ -11,35 +11,35 @@ function Experience() {
     <div className="timeline-container">
         <div className="timeline-card">
             <div className="year-range">2012 - 2014</div>
-            <div className="company-logo"><img src="Img/Ellipse 329 (1).png" alt="Sushio"/></div>
+            <div className="company-logo"><img src="src/assets/Ellipse 329 (1).png" alt="Sushio"/></div>
             <div className="role">Product Designer</div>
             <div className="company">@Sushio</div>
             <div className="country"></div>
         </div>
         <div className="timeline-card">
             <div className="year-range">2014 - 2017</div>
-            <div className="company-logo"><img src="Img/Ellipse 329.png" alt="KCstudio"/></div>
+            <div className="company-logo"><img src="src/assets/Ellipse 329.png" alt="KCstudio"/></div>
             <div className="role">Freelance</div>
             <div className="company">@KCstudio</div>
             <div className="country"></div>
         </div>
         <div className="timeline-card">
             <div className="year-range">2017 - 2019</div>
-            <div className="company-logo"><img src="Img/logo2.png" alt="Pukka.io"/></div>
+            <div className="company-logo"><img src="src/assets/logo1.png" alt="Pukka.io"/></div>
             <div className="role">Co-founder</div>
             <div className="company">@Pukka.io</div>
             <div className="country"></div>
         </div>
         <div className="timeline-card">
             <div className="year-range">2020 - 2022</div>
-            <div className="company-logo"><img src="Img/logo5.png" alt="Strapi"/></div>
+            <div className="company-logo"><img src="src/assets/Logo2.png" alt="Strapi"/></div>
             <div className="role">Lead Designer</div>
             <div className="company">@Strapi</div>
             <div className="country"></div>
         </div>
         <div className="timeline-card">
             <div className="year-range">2022 - 2024</div>
-            <div className="company-logo"><img src="Img/logo6.png" alt="KCstudio"/></div>
+            <div className="company-logo"><img src="src/assets/logo4.png" alt="KCstudio"/></div>
             <div className="role">Senior Freelance</div>
             <div className="company">@KCstudio</div>
             <div className="country"></div>

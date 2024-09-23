@@ -7,9 +7,9 @@ function Review() {
 
        <div className="Review">
        <div className="testimonial-card-left">
-            <img src="Img/Group 48095555.png" alt="" className='LogoCard' />
+            <img src="src/assets/LogoXYZ (6).png" alt="" className='LogoCard' />
         <div className="Elkaim">
-            <img src="Img/Ellipse 310.png" alt="Dan Elkaim"/>
+            <img src="src/assets/Ellipse 310.png" alt="Dan Elkaim"/>
             </div>
             <div className="name-title">
                 <h3>Dan Elkaim</h3>
@@ -27,9 +27,9 @@ function Review() {
     </div>
 
     <div className="testimonial-card">
-            <img src="Img/Group 48095555.png" alt="" className='LogoCard' />
+            <img src="src/assets/LogoXYZ (7).png" alt="" className='LogoCard' />
         <div className="Elkaim">
-            <img src="Img/Ellipse 310.png" alt="Dan Elkaim"/>
+            <img src="src/assets/Ellipse 310.png" alt="Dan Elkaim"/>
             </div>
             <div className="name-title">
                 <h3>Dan Elkaim</h3>
@@ -47,9 +47,9 @@ function Review() {
     </div>
 
         <div className="testimonial-card">
-            <img src="Img/Group 48095555.png" alt="" className='LogoCard' />
+            <img src="src/assets/LogoXYZ (2).png" alt="" className='LogoCard' />
         <div className="Elkaim">
-            <img src="Img/Ellipse 310.png" alt="Dan Elkaim"/>
+            <img src="src/assets/Ellipse 310.png" alt="Dan Elkaim"/>
             </div>
             <div className="name-title">
                 <h3>Dan Elkaim</h3>
